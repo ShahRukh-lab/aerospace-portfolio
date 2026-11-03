@@ -2,8 +2,9 @@
 
 ## About Me
 Space Science graduate from Pakistan, transitioning into aerospace engineering 
-with a focus on rocket propulsion and CFD simulation. Building toward a 
-Master's degree in Japan (targeting MEXT scholarship).
+with a focus on rocket propulsion and CFD simulation. Currently building toward 
+a fully-funded Master's degree in Aerospace Engineering and Computational Fluid
+Dynamics.
 
 My BS thesis was on CFD analysis of a 2D convergent-divergent axisymmetric 
 nozzle for shock wave generation and flow separation.
