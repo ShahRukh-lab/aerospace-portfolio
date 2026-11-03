@@ -1,6 +1,6 @@
 # isentropic flow analysis -CD Nozzle
 # Based on BS Thesis: AR = 1.614 , Me = 1.945
-# Author: Shahrukh Fazal
+# Author: Shah Rukh
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -24,13 +24,13 @@ print(f"Design Exit Pressure Ratio Pe/P0 = {Pe_P0:.4f}")
 print(f"This matches the NPR = {1/Pe_P0:.2f}")
 
 
-# --- Classify Flow Regimes for all 10 NPRs---
+# --- Classifying Flow Regimes for all 10 NPRs---
 print("\n--- Flow Regime Classification")
 for i in range(len(NPR)):
     current_NPR = NPR[i]
     current_Pratio = P_ratio[i]
 
-    # Compare current back pressure to design exit pressure
+    # Comparing current back pressure to design exit pressure
     if current_Pratio > Pe_P0 * 1.01: #Adding tiny 1.01 tolerance
         regime = "Over-Expanded (Shocks Form Outside)"
     elif current_Pratio < Pe_P0 * 0.99: # Adding tolerance 0.99
