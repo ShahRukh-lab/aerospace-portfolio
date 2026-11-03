@@ -17,10 +17,9 @@ nozzle for shock wave generation and flow separation.
 ## Projects (In Progress)
 | Project | Description | Status |
 |---------|-------------|--------|
-| Isentropic Flow Calculator | Python tool for nozzle flow property calculations | 🔄 In Progress |
-| C-D Nozzle CFD (OpenFOAM) | Reproduction of thesis nozzle in open-source CFD | 🔄 Planned |
+| Isentropic Flow Calculator | Python tool for nozzle flow property calculations | Done |
+| C-D Nozzle CFD (OpenFOAM) | Reproduction of thesis nozzle in open-source CFD | 🔄 In-Progress |
 | Bell vs Conical Nozzle Study | Thrust efficiency comparison via simulation | 🔄 Planned |
 
 ## Target
-Master's in Aerospace Engineering — Rocket Propulsion / CFD
-Japan (University of Tokyo, Tohoku, Nagoya) — 2026 intake
+Fully-funded Master's in Aerospace Engineering / Computational Fluid Dynamics
